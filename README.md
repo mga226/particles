@@ -1,4 +1,8 @@
-Coding Exercise
+
+*I was recently in talks with a company about a software engineer position recently, and agreed to do a code test. The job didn't end up being a fit, but I was happy with my solution and it got a great response, so here it is. The parameters of the problem can be found in <a href="TheProblem.md">TheProblem.md</a>, and what follows is my comments about the problem and the solution.*
+
+
+Coding Exercise (Particles)
 =========
 
 This was fun!
@@ -33,12 +37,3 @@ produces:
 	)
 
 To test, you can play in `sandbox.php`, or just run the test suite.
-
-=======
-Particles
-=========
-
-Was in talks with a company about a software engineer position recently, and part of the process was a "code test." The job didn't end up being a fit, but my solution to the test got a great response and I felt pretty happy with it.
-
-Coming soon...
->>>>>>> c015c81203decf61030b3116cb32634be3375f3c
