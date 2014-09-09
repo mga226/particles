@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Coding Exercise
 =========
 
@@ -34,6 +33,7 @@ produces:
 	)
 
 To test, you can play in `sandbox.php`, or just run the test suite.
+
 =======
 Particles
 =========
