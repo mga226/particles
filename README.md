@@ -1,5 +1,5 @@
 
-*I was recently in talks with a company about a software engineer position recently, and agreed to do a code test. The job didn't end up being a fit, but I was happy with my solution and it got a great response, so here it is. The parameters of the problem can be found in <a href="TheProblem.md">TheProblem.md</a>, and what follows is my comments about the problem and the solution.*
+*I was recently in talks with a company about a software engineer position recently, and agreed to do a code test. The job didn't end up being a fit, but I was happy with my solution and it got a great response, so here it is. The parameters of the problem can be found in [TheProblem.md](TheProblem.md), and what follows is my comments about the problem and the solution.*
 
 
 Coding Exercise (Particles)
