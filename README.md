@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Coding Exercise
 =========
 
@@ -33,3 +34,11 @@ produces:
 	)
 
 To test, you can play in `sandbox.php`, or just run the test suite.
+=======
+Particles
+=========
+
+Was in talks with a company about a software engineer position recently, and part of the process was a "code test." The job didn't end up being a fit, but my solution to the test got a great response and I felt pretty happy with it.
+
+Coming soon...
+>>>>>>> c015c81203decf61030b3116cb32634be3375f3c
