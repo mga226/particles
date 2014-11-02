@@ -1,7 +1,6 @@
 
 *I was recently in talks with a company about a software engineer position, and agreed to do a code test. My solution got a great response, and made me happy, so here it is. The parameters of the problem can be found in [TheProblem.md](TheProblem.md), and what follows is my comments about the problem and the solution.*
 
-
 Coding Exercise (Particles)
 =========
 
